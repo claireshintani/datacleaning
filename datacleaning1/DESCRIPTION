@@ -1,0 +1,14 @@
+Package: datacleaning1
+Type: Package
+Title: Cleans the ciTBI dataset
+Version: 1.0
+Date: 2025-12-01
+Author: Claire Shintani
+Maintainer: Claire Shintani <claireshintani@berkeley.edu>
+Description: This function cleans the ciTBI dataset by addressing missing data, changing variable names, and specifying variable types.
+License: MIT
+Encoding: UTF-8
+RoxygenNote: 7.3.3
+Depends: 
+    R (>= 3.5)
+LazyData: true
