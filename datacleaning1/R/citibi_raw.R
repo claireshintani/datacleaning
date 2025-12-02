@@ -8,5 +8,4 @@
 #' Each row represents a different child while each column
 #' is a different measure after examination of the child.
 #' @source Stat 133
-#' @export
 "citbi_raw"
